@@ -14,7 +14,7 @@ It is designed for `uv`/PEP 621 projects that want:
 ## Install
 
 ```bash
-pip install uvdepsync
+pip install git+https://github.com/autonomy414941/uvdepsync.git
 ```
 
 Or from source:
